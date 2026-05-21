@@ -1,3 +1,7 @@
+```diff
++ README overview generated with Claude
++ Human-reviewed before commit
+```
 # WebScraper2Dropbox — eGela → Dropbox Sync & Transfer Pipeline
 
 A desktop GUI application that scrapes PDF course materials from the **eGela** (Moodle-based LMS of the University of the Basque Country / EHU) and transfers them directly to a user's **Dropbox** account, with file management capabilities.
