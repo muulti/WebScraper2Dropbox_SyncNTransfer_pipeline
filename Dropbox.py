@@ -13,8 +13,8 @@ import urllib.parse
 #Fecha: 15/05/2026
 #----------------------------------------------------#
 
-app_key = 'xtkd5lbya3r99dy'       # Rellenar con el App Key de tu app en Dropbox
-app_secret = 'hlggtsqsy02rv7m'    # Rellenar con el App Secret de tu app en Dropbox
+app_key = '???'       # Rellenar con el App Key de tu app en Dropbox
+app_secret = '???'    # Rellenar con el App Secret de tu app en Dropbox
 server_addr = "localhost"
 server_port = 8070
 redirect_uri = "http://" + server_addr + ":" + str(server_port)
